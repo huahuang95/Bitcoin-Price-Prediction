@@ -1,5 +1,5 @@
 # Bitcoin-Price-Prediction
-Bitcoin Price Forecasting Using Time Series Analysis
+## Bitcoin Price Forecasting Using Time Series Analysis
 
 ### Data Source
 - [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
