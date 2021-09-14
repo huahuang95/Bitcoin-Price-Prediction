@@ -2,7 +2,7 @@
 ## Bitcoin Price Forecasting Using Time Series Analysis
 
 ### Data Source
-- [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
+- Kaggle: [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
 
 ### Project Objectives
 - Develop time series models to predict Bitcoin price and evaluate models' performance.
